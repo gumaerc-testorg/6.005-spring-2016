@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-005-software-construction-spring-2016/b041ab0cec88df93e808e908aca1af5f_MIT6_005S16_Quiz1_soln.pdf
+file: /media/courses/6-005-software-construction-spring-2016/b041ab0cec88df93e808e908aca1af5f_MIT6_005S16_Quiz1_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: Quiz 1 Solutions
 uid: b041ab0c-ec88-df93-e808-e908aca1af5f
