@@ -5,6 +5,7 @@ file: /courses/6-005-software-construction-spring-2016/1f33f4c51693fb6d295e334f2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
