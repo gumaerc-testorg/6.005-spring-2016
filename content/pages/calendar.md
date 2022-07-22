@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: c5e916ab-353a-c382-37f0-e03b3f790660
 ---

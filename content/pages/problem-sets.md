@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains assignments for 6.005 Spring 2016.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 832b2956-ba46-2c4c-d4e2-4faf8926e497
 ---
