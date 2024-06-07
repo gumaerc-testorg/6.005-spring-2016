@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-005-software-construction-spring-2016/b041ab0cec88df93e808e908aca1af5f_MIT6_005S16_Quiz1_soln.pdf
+file_size: 295898
 file_type: application/pdf
 learning_resource_types:
 - Exams
