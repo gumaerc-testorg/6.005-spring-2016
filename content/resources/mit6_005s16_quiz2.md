@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-005-software-construction-spring-2016/99b780633e102ebbca5fea790a69444d_MIT6_005S16_Quiz2.pdf
+file: /ol-ocw-studio-app/courses/6-005-software-construction-spring-2016/99b780633e102ebbca5fea790a69444d_MIT6_005S16_Quiz2.pdf
 file_size: 215021
 file_type: application/pdf
 learning_resource_types:
