@@ -47,10 +47,11 @@
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",
-    "Online Textbook",
+    "Open Textbooks",
     "Programming Assignments"
   ],
   "site_uid": "2d4cb23d-bbbe-43a7-b698-2af26c94f7ad",
   "site_short_id": "6.005-spring-2016",
+  "site_url_path": "courses/6-005-software-construction-spring-2016",
   "title": "Course Metadata"
 }
