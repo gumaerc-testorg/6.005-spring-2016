@@ -8,7 +8,7 @@ title: Readings
 uid: 167cdf11-4893-3281-e566-858683b999a4
 ---
 
-Example code for some readings can be found on the [6.005 Github page](https://github.com/mit6005/).
+Example code for some readings can be found on the {{% resource_link "c06b7599-8806-4772-a944-dd6af624495c" "6.005 Github page" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
